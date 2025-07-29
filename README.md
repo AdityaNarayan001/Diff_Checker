@@ -7,6 +7,7 @@ This project contains a Python script to check differences between files.
 To make the `diff-checker` available system-wide, run the installation script:
 
 ```bash
+chmod +x install.sh
 ./install.sh
 ```
 
